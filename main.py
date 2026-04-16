@@ -50,7 +50,7 @@ LEFT_EYE  = [362, 385, 387, 263, 373, 380]
 RIGHT_EYE = [33, 160, 158, 133, 153, 144]
 
 EAR_THRESHOLD = 0.22
-CLOSED_FRAMES = 15
+CLOSED_FRAMES = 12
 
 
 def compute_ear(landmarks, eye_indices, w, h):
