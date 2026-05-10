@@ -8,7 +8,6 @@ from scipy.spatial import distance as dist
 import os
 import sys
 
-
 print("Program started successfully")
 
 # ── AUDIO SETUP ─────────────────────────────
